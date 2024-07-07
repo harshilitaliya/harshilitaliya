@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "585421205680",
+    "firebase_url": "https://contactmanager-b2dc4-default-rtdb.firebaseio.com",
+    "project_id": "contactmanager-b2dc4",
+    "storage_bucket": "contactmanager-b2dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585421205680:android:15f447f1a5765467decb75",
+        "android_client_info": {
+          "package_name": "com.example.contactmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8LjWt4TkVIJtxJyTOHSE5LL20WKfBT34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
